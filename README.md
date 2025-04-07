@@ -32,3 +32,7 @@ Role Management: Introduce granular roles (e.g., proposer, approver).
 
 Multi-Chain Support: Adapt for use on multiple blockchains beyond Ethereum.
 
+## Contract Details:0x2E3f654461a76d3eA7Ba7cF2F6d04893939c768F
+![image](https://github.com/user-attachments/assets/7d9600d8-5e01-4e14-af01-22936e41df74)
+
+
